@@ -1,0 +1,22 @@
+[
+    {
+      "title": "PC",
+      "description": "Gris",
+      "price": 900000,
+      "code": "P01",
+      "stock": 5,
+      "category": "Electronicos",
+      "status": true,
+      "id": 1
+    },
+    {
+      "title": "Auriculares",
+      "description": "Blancos, inalambricos",
+      "price": 80000,
+      "code": "A01",
+      "stock": 10,
+      "category": "Electronicos",
+      "status": true,
+      "id": 3
+    }
+  ]
